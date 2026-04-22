@@ -12,7 +12,7 @@ import random
 
 st.set_page_config(page_title="Un gol por la Contaduría", page_icon="⚽")
 
-st.title("⚽ Un gol por la Contaduría |3a. Semana de la Contabilidad LCFI-UNRC")
+st.title("⚽ Un gol por la Contaduría \\3a. Semana de la Contabilidad LCFI-UNRC")
 st.subheader("Responde correctamente y gana tu oportunidad de gol")
 
 # Banco de preguntas
